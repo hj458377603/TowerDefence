@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TD", "TD\TD\TD.csproj", "{816F063D-3ADA-4B2E-A4D4-48270D31DFC9}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TDContent", "TD\TDContent\TDContent.contentproj", "{6FDEF311-F0BB-433C-ADF4-62F0F9E82B47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{816F063D-3ADA-4B2E-A4D4-48270D31DFC9}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{816F063D-3ADA-4B2E-A4D4-48270D31DFC9}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{816F063D-3ADA-4B2E-A4D4-48270D31DFC9}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{816F063D-3ADA-4B2E-A4D4-48270D31DFC9}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{816F063D-3ADA-4B2E-A4D4-48270D31DFC9}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{816F063D-3ADA-4B2E-A4D4-48270D31DFC9}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{6FDEF311-F0BB-433C-ADF4-62F0F9E82B47}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{6FDEF311-F0BB-433C-ADF4-62F0F9E82B47}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
